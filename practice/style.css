@@ -1,0 +1,23 @@
+<style>
+  body { 
+    /* Градиент */ 
+    background: linear-gradient(#9A5044, #E8D9A9) fixed;
+   }
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.flex-container > div {
+  
+  width: 400px;
+  margin: 22px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+img{
+  height: 500px;
+}
+</style>
